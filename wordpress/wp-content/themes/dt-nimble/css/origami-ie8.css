@@ -1,0 +1,155 @@
+#aside .slider-wrapper, .half .slider-wrapper, .full .slider-wrapper, .two-thirds .slider-wrapper, .one-fourth .slider-wrapper, #aside .slider_container_1, .slider_container_1{		  
+	*background: transparent;
+
+		  zoom: 1;
+}
+
+  .twit .reviews-t, #footer .flickr .alignleft-f, #footer .slider_container_1{	  
+	  *background: transparent;
+		  zoom: 1;
+  }
+
+.slide-desc, #slide .nivo-caption, #carousel .carousel-feature .carousel-caption, .jfancytileTitle {
+	background: transparent;
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000,endColorstr=#99000000)"; /* IE8 */
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000,endColorstr=#99000000);   /* IE6 & 7 */
+	zoom: 1;
+}
+.anything-slider.slides .html-caption {			  
+	background: transparent;
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#B2000000,endColorstr=#B2000000)";
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#B2000000,endColorstr=#B2000000);
+	zoom: 1;
+ }
+
+ #bottom {	
+	*background: transparent;
+      zoom: 1;
+}
+.about, .textwidget-photo, .partner-bg, .alignleft, .alignright, .aligncenter, .shadow-light, .reviews-t, #aside .twit .reviews-t, .blockquote-bg, .navigation, .map, .navig-category, .slider-shortcode, .toggle, .basic .accord, ul.nav-tab li, .list-wrap, .videos, .avatar img, .alignleft-f {
+	*background: transparent;	
+	zoom: 1;
+}
+
+.reviews-t.coda-team {
+	filter:none !important
+}
+
+.SliderNameDescription{
+	*background: transparent;
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#B2000000,endColorstr=#B2000000)"; /* IE8 */
+		filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#B2000000,endColorstr=#B2000000);   /* IE6 & 7 */
+		  zoom: 1;
+}
+.slider-shortcode .nivo-caption, .panel .html-caption, .one-fourth .nivo-caption, .half .nivo-caption, .two-thirds .nivo-caption, .full .nivo-caption {
+	*background: transparent;
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#B2000000,endColorstr=#B2000000)"; /* IE8 */
+		filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#B2000000,endColorstr=#B2000000);   /* IE6 & 7 */
+		  zoom: 1;
+}
+.widget .nivo-caption {
+	-ms-filter:none;
+		filter: none;
+}
+
+ a.alignleft i, a.photo i {
+	  background:url(../images/zoom-bg.png) no-repeat center center;  
+  }		   
+  a.alignleft.text i {
+	  background:url(../images/zoom-tex-bgt.png) no-repeat center center;
+  }
+  a.alignleft.photo i {
+	  background: url(../images/zoom-photo-bg.png) no-repeat center center;
+}
+  a.alignleft.video i {
+	  background:url(../images/zoom-video-bg.png) no-repeat center center;
+  }
+.gallery-inner{
+	float:left;
+}
+
+
+#page {
+	background: transparent;
+		  zoom: 1;
+}
+/*body {
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.dream-dev.net/meccano/wp-content/uploads/2012/04/p20.jpg', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.dream-dev.net/meccano/wp-content/uploads/2012/04/p20.jpg', sizingMethod='scale')";
+}*/
+.t-h {	
+	border:1px solid #d7d7d7;
+ }
+.get-in-touch .i-h, .i-s {
+		border:1px solid #d7d7d7;
+}
+.get-in-touch .i-h {
+	width:156px;
+}
+
+ ul#nav li div {
+	 filter:none;
+}
+.border, .border-dark {
+	 filter: alpha(opacity=10);
+	
+}
+.soc-ico li:hover a {
+	filter: alpha(opacity=80);
+}
+
+.answer .list-wrap,
+.answer ul.nav-tab li,
+.basic div.accord .list-wrap,
+.basic div.accord ul.nav-tab li,
+.basic div.accord .toggle,
+.answer .basic div.accord,
+.list-wrap .toggle,
+.list-wrap .basic div.accord {
+	border: 1px solid #ddd;
+}
+.basic div.accord {
+	z-index: auto;
+}
+.reviews-t {
+	display:block;
+}
+.textwidget-photo .form-protect {
+	background: transparent;
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#7F000000,endColorstr=#7F000000)"; /* IE8 */
+		filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#7F000000,endColorstr=#7F000000);   /* IE6 & 7 */
+		  zoom: 1;
+}
+.protect i.fade{
+	display: none !important;
+}
+.flickr i {
+	background-image:url(../images/fl-i-ie8.png);
+}
+a.alignleft.img-post i.fade {
+	background-image:url(../images/post-i-ie8.png) !important;
+	height:47px;
+}
+a.alignleft i.fade, a.photo i.fade, ul.gallery li i.fade {
+	 background-image: url("../images/zoom-bg-ie8.png");
+	 height:99%;
+}
+.carouFredSel_1 a.photo i.fade {
+	height:98%;
+}
+a.alignleft.text i.fade {
+    background-image: url("../images/blog-zoom-ie8.png");
+}
+.video-gal a.alignleft i.fade, .video-gal a.photo i.fade {
+    background-image: url("../images/video-zoom-ie8.png");
+}
+.search-f {
+	 margin:0px 9px 0 0;
+}
+
+.img-frame img {
+	z-index:1
+}
+.bottom-cont .copy {
+	float: right;
+}

@@ -1,0 +1,47 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">title</custom-field>
+        <custom-field action="translate">description</custom-field>
+        <custom-field action="translate">keywords</custom-field>
+		<custom-field action="translate">_dt_admin_list_thumb</custom-field>
+		<custom-field action="translate">_dt_albums_layout_albums</custom-field>
+		<custom-field action="translate">_dt_albums_layout_options</custom-field>
+		<custom-field action="translate">_dt_background_options</custom-field>
+		<custom-field action="translate">_dt_benefits_options</custom-field>
+		<custom-field action="translate">_dt_catalog-goods_options</custom-field>
+		<custom-field action="translate">_dt_catalog-post_options</custom-field>
+		<custom-field action="translate">_dt_catalog_layout_category</custom-field>
+		<custom-field action="translate">_dt_catalog_layout_options</custom-field>
+		<custom-field action="translate">_dt_catalog_related</custom-field>
+		<custom-field action="translate">_dt_catalog_video_link</custom-field>
+		<custom-field action="translate">_dt_gal_p_options</custom-field>
+		<custom-field action="translate">_dt_layout_footer_options</custom-field>
+		<custom-field action="translate">_dt_layout_sidebar_options</custom-field>
+		<custom-field action="translate">_dt_logos_options</custom-field>
+		<custom-field action="translate">_dt_meta_blog_list</custom-field>
+		<custom-field action="translate">_dt_meta_blog_options</custom-field>
+		<custom-field action="translate">_dt_meta_post_options</custom-field>
+		<custom-field action="translate">_dt_obo_slider_layout_options</custom-field>
+		<custom-field action="translate">_dt_obo_slider_layout_slideshows</custom-field>
+		<custom-field action="translate">_dt_obo_slider_options</custom-field>
+		<custom-field action="translate">_dt_obo_slider_pos_left</custom-field>
+		<custom-field action="translate">_dt_obo_slider_pos_top</custom-field>
+		<custom-field action="translate">_dt_photos_layout_albums</custom-field>
+		<custom-field action="translate">_dt_photos_layout_options</custom-field>
+		<custom-field action="translate">_dt_portfolio_layout_category</custom-field>
+		<custom-field action="translate">_dt_portfolio_layout_options</custom-field>
+		<custom-field action="translate">_dt_portfolio_options</custom-field>
+		<custom-field action="translate">_dt_portfolio_related</custom-field>
+		<custom-field action="translate">_dt_portfolio_video_link</custom-field>
+		<custom-field action="translate">_dt_slider_hdesc</custom-field>
+		<custom-field action="translate">_dt_slider_layout_options</custom-field>
+		<custom-field action="translate">_dt_slider_layout_slideshows</custom-field>
+		<custom-field action="translate">_dt_slider_link</custom-field>
+		<custom-field action="translate">_dt_slider_newwin</custom-field>
+		<custom-field action="translate">_dt_team_info</custom-field>
+		<custom-field action="translate">_dt_testimonials_author</custom-field>
+		<custom-field action="translate">_dt_video_layout_category</custom-field>
+		<custom-field action="translate">_dt_video_layout_options</custom-field>
+		<custom-field action="translate">_dt_video_options</custom-field>
+    </custom-fields>
+</wpml-config>

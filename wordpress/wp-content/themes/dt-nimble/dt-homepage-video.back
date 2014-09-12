@@ -1,0 +1,25 @@
+<?php
+/* Template Name: 16. Homepage with video */
+dt_storage('is_homepage', 'true');
+dt_storage('have_sidebar', true);
+?>
+
+<?php get_header(); ?>
+
+<?php get_template_part('top-bg'); ?>
+
+<?php get_template_part('parallax'); ?>
+
+<?php get_template_part('nav'); ?>
+
+<div id="container" class="full-width">
+
+<?php
+if( have_posts() ) {
+    while( have_posts() ) { the_post(); the_content(); }
+}
+?>
+
+</div>
+
+<?php get_footer(); ?>

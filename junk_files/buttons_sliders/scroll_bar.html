@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="cufon-active cufon-ready"><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+
+
+<script type="text/javascript" src="./scroll_bar_files/jquery.min.js"></script><style type="text/css"></style>
+<script type="text/javascript" src="./scroll_bar_files/jquery-ui.min.js"></script>
+<script type="text/javascript" src="./scroll_bar_files/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="./scroll_bar_files/Museo_400.font.js"></script>
+<script type="text/javascript">
+			Cufon.replace('h1',{fontFamily: 'Museo' });
+</script>
+<link rel="stylesheet" href="./scroll_bar_files/vertical.slider.css" type="text/css" media="screen">	
+<link rel="stylesheet" href="./scroll_bar_files/demos.css" type="text/css" media="screen">
+<style type="text/css">
+#anchors{float:left;height:300px;position:relative}
+#arrow_up{position:absolute;bottom:50px;cursor:pointer}
+#arrow_down{position:absolute;bottom:0;cursor:pointer}
+</style>
+
+
+<body cz-shortcut-listen="true">
+
+
+<div id="scroll-pane" style="overflow: hidden;">
+		<div class="scroll-content" style="top: 0px;">
+
+		<div class="scroll-content-item anchor0">1</div>
+		<div class="scroll-content-item ">2</div>
+		<div class="scroll-content-item ">3</div>
+		<div class="scroll-content-item  anchor1">4</div>
+		<div class="scroll-content-item ">5</div>
+		<div class="scroll-content-item ">6</div>
+		<div class="scroll-content-item anchor2">7</div>
+		<div class="scroll-content-item ">8</div>
+		<div class="scroll-content-item ">9</div>
+		<div class="scroll-content-item anchor3">10</div>
+		<div class="scroll-content-item ">11</div>
+		<div class="scroll-content-item ">12</div>
+		<div class="scroll-content-item anchor4">13</div>
+		<div class="scroll-content-item ">14</div>
+		<div class="scroll-content-item ">15</div>
+		<div class="scroll-content-item anchor5">16</div>
+		<div class="scroll-content-item ">17</div>
+		<div class="scroll-content-item ">18</div>
+		<div class="scroll-content-item anchor6">19</div>
+		<div class="scroll-content-item ">20</div>
+		</div>	
+		
+		
+		
+		
+<div class="slider-wrap" style="height: 300px;"><div class="slider-vertical ui-slider ui-slider-vertical ui-widget ui-widget-content ui-corner-all" style="height: 196px; margin-top: 52px;"><div class="ui-slider-range ui-widget-header ui-slider-range-min" style="height: 100%; bottom: -52px;"></div></div></div></div>
+
+
+
+<div id="anchors">
+<img id="arrow_up" alt="Up" src="./scroll_bar_files/up_arrow.gif" width="50">
+<img id="arrow_down" alt="Down" src="./scroll_bar_files/down_arrow.gif" width="50">
+</div>
+
+<script type="text/javascript" src="./scroll_bar_files/vertical.slider.standard.js"></script>
+<script type="text/javascript">
+setSlider($('#scroll-pane'));
+			
+$('#arrow_up').mousedown(function(event) {
+	if(event.preventDefault) event.preventDefault();
+    intervalId = setInterval('scrollUp()', 30);
+	$(this).bind('mouseup mouseleave', function() {
+		clearInterval(intervalId);
+	});
+});
+$('#arrow_down').mousedown(function(event) {
+	if(event.preventDefault) event.preventDefault();
+    intervalId = setInterval('scrollDown()', 30);
+	$(this).bind('mouseup mouseleave', function() {
+		clearInterval(intervalId);
+	});
+});
+
+function scrollUp(){
+	if ($(".slider-vertical").slider("value")<100){
+		$(".slider-vertical").slider("value",$(".slider-vertical").slider("value")+1);
+	}
+}
+function scrollDown(){
+	if ($(".slider-vertical").slider("value")>0){
+		$(".slider-vertical").slider("value",$(".slider-vertical").slider("value")-1);
+	}
+}
+</script>
+<script type="text/javascript"> Cufon.now(); </script>
+
+
+
+</body></html>

@@ -1,0 +1,255 @@
+@media 
+  (min--moz-device-pixel-ratio: 2),
+  (-o-min-device-pixel-ratio: 2/1), 
+  (-webkit-min-device-pixel-ratio: 2), 
+  (min-device-pixel-ratio: 2) {
+
+.link a,
+.no-slide-desc .link a,
+.fs-link {
+   background-image: url(../images/retina/link.png) !important;
+   background-repeat: no-repeat;
+   background-position: 0 0;
+   -webkit-background-size: 22px 22px;
+   -moz-background-size: 22px 22px;
+   -o-background-size: 22px 22px;
+   -ms-background-size: 22px 22px;
+   background-size: 22px 22px;
+}
+/*Contacts*/
+.contact-block span:before {
+	background-image:url(../images/retina/white/icons.png);
+	background-repeat:no-repeat;
+	-webkit-background-size: 300px 20px;
+	-moz-background-size: 300px 20px;
+	-o-background-size: 300px 20px;
+	-ms-background-size: 300px 20px;
+	background-size: 300px 20px;
+}
+
+/*Twitter*/
+.ico-twit:before {	
+	background-image:url(../images/retina/white/icons.png);
+	-webkit-background-size: 300px 20px;
+	-moz-background-size: 300px 20px;
+	-o-background-size: 300px 20px;
+	-ms-background-size: 300px 20px;
+	background-size: 300px 20px;
+}
+/*Meta info*/
+.entry-meta .ico-link:before, .ico-link.categories:before, .ico-link.tags:before {
+	background-image:url(../images/retina/black/icons.png);
+	-webkit-background-size: 300px 20px;
+	-moz-background-size: 300px 20px;
+	-o-background-size: 300px 20px;
+	-ms-background-size: 300px 20px;
+	background-size: 300px 20px;
+}
+.entry-meta .ico-link.date:before {
+	background-position:-162px 1px;
+}
+.entry-meta .ico-link.comments:before {
+	background-position:-142px 2px;
+}
+
+.ico-link.tags:before {
+	background-position:-180px 0px;
+	float:none;
+}
+.entry-meta .ico-link.author:before {
+	background-position:-102px 1px;
+}
+
+.entry-meta .ico-link.type {
+	background-position:0 0px;
+}
+.entry-meta .ico-link.categories:before,  .ico-link.categories:before {
+	background-position:-122px 1px;
+}
+
+.search {
+	background: url(../images/retina/search.png) no-repeat 0 0;
+	-webkit-background-size: 13px 13px;
+	-moz-background-size: 13px 13px;
+	-o-background-size: 13px 13px;
+	-ms-background-size: 13px 13px;
+	background-size: 13px 13px;
+}
+/*folio switcher*/
+.categ i {
+	background-image:url(../images/retina/black/icons.png);
+	-webkit-background-size: 300px 18px;
+	-moz-background-size: 300px 18px;
+	-o-background-size: 300px 18px;
+	-ms-background-size: 300px 18px;
+	background-size: 300px 18px;
+}			
+
+i.ico-t {				
+	background-position:-202px 0px;
+}
+
+i.ico-f {
+	background-position:-262px 0px;			
+}
+/*i.three-coll {
+	background: url("../images/black/three-col.png") no-repeat left 0px;
+}*/
+i.three-coll {
+	background-position:-222px 0px;
+}
+/*i.three-coll-t {
+	background: url("../images/black/three-col-t.png") no-repeat left 0px;				
+}*/
+i.three-coll-t {
+	background-position:-242px 0px;				
+}
+
+a.alignleft i.fade, a.photo i.fade, ul.gallery li i.fade {
+  background-image:url(../images/retina/zoom-bg.png);
+  -webkit-background-size: 36px 35px;
+  -moz-background-size: 36px 35px;
+	-o-background-size: 36px 35px;
+	-ms-background-size: 36px 35px;
+	background-size: 36px 35px;
+}
+
+.flickr i {
+	background-image:url(../images/retina/zoom-bg-s.png);  
+	-webkit-background-size: 21px 21px;
+	-moz-background-size: 21px 21px;
+	-o-background-size: 21px 21px;
+	-ms-background-size: 21px 21px;
+	background-size: 21px 21px;
+}
+a.alignleft.img-post i.fade {
+	background-image:url(../images/retina/zoom-bg-s-post.png);  
+	-webkit-background-size: 13px 16px;
+	-moz-background-size: 13px 16px;
+	-o-background-size: 13px 16px;
+	-ms-background-size: 13px 16px;
+	background-size: 13px 16px;
+}
+.video-gal a.alignleft i.fade, .video-gal a.photo i.fade {
+	background-image:url(../images/retina/video-zoom.png);	  
+	-webkit-background-size: 38px 38px;
+	-moz-background-size: 38px 38px;
+	-o-background-size: 38px 38px;
+	-ms-background-size: 38px 38px;
+	background-size: 38px 38px;
+}
+/*soc icons*/
+.soc-ico li a {
+	background-repeat:no-repeat;
+	background-position:0 0;
+  	-webkit-background-size: 20px 21px;
+	-moz-background-size: 20px 21px;
+	-o-background-size: 20px 21px;
+	-ms-background-size: 20px 21px;
+	background-size: 20px 21px;
+}
+.soc-ico li a.rss {
+  background-image:url(../images/retina/soc-ico/rss.png);
+}
+.soc-ico li a.dribbble {
+  background-image:url(../images/retina/soc-ico/dribbble.png);
+}
+.soc-ico li a.facebook {
+  background-image:url(../images/retina/soc-ico/facebook.png);
+}
+.soc-ico li a.twitter {
+  background-image:url(../images/retina/soc-ico/twitter.png);
+}
+.soc-ico li a.delicious {
+  background-image:url(../images/retina/soc-ico/delicious.png);
+}
+.soc-ico li a.flickr {
+  background-image:url(../images/retina/soc-ico/flickr.png);
+}
+.soc-ico li a.forrst {
+  background-image:url(../images/retina/soc-ico/forrst.png);
+}
+.soc-ico li a.google {
+  background-image:url(../images/retina/soc-ico/google.png);
+}
+
+.soc-ico li a.lastfm{
+	  background-image:url(../images/retina/soc-ico/LastFM.png);
+  }
+.soc-ico li a.envato{
+  background-image:url(../images/retina/soc-ico/envato.png);
+}
+.soc-ico li a.linkedin {
+  background-image:url(../images/retina/soc-ico/linkedin.png);
+}
+.soc-ico li a.myspace {
+  background-image:url(../images/retina/soc-ico/MySpace.png);
+}
+.soc-ico li a.vimeo {
+  background-image:url(../images/retina/soc-ico/vimeo.png);
+}
+.soc-ico li a.youtube {
+  background-image:url(../images/retina/soc-ico/YouTube.png);
+}
+.soc-ico li a.tumbler {
+  background-image:url(../images/retina/soc-ico/tumbler.png);
+}
+.soc-ico li a.pinterest {
+	background-image: url("../images/retina/soc-ico/pinterest.png");
+}
+.soc-ico li a.devian {
+	background-image: url("../images/retina/soc-ico/devian.png");
+}
+.soc-ico li a.skype {
+	background-image: url("../images/retina/soc-ico/skype.png");
+}
+.soc-ico li a.stumbleupon {
+	background-image: url("../images/retina/soc-ico/stumbleupon.png");
+}
+.soc-ico li a.picasa {
+	background-image: url("../images/retina/soc-ico/picasa.png");
+}
+a.alignleft.text i.fade {
+	background-image:url(../images/retina/blog-zoom.png);
+	-webkit-background-size: 31px 37px;
+	-moz-background-size: 31px 37px;
+	-o-background-size: 31px 37px;
+	-ms-background-size: 31px 37px;
+	background-size: 31px 37px;
+}
+
+.dt-benefits-normal {
+	display: none;
+}
+.dt-benefits-retina {
+	display: block;
+}
+
+.nivoSlider,
+.nivo-box {
+	-webkit-background-size: 960px auto;
+	-moz-background-size: 960px auto;
+	-o-background-size: 960px auto;
+	-ms-background-size: 960px auto;
+	background-size: 960px auto;
+}
+.jfancytileContainer > div > div,
+.jfancyfirst {
+	-webkit-background-size: 960px 400px;
+	-moz-background-size: 960px 400px;
+	-o-background-size: 960px 400px;
+	-ms-background-size: 960px 400px;
+	background-size: 960px 400px;
+}
+
+.widget .nivoSlider,
+.widget .nivo-box,
+.widget .nivo-slice {
+	-webkit-background-size: 210px auto;
+	-moz-background-size: 210px auto;
+	-o-background-size: 210px auto;
+	-ms-background-size: 210px auto;
+	background-size: 210px auto;
+}
+
+}

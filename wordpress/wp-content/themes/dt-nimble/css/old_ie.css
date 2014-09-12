@@ -1,0 +1,156 @@
+@charset "utf-8";
+/* CSS Document */
+
+.caption-head {
+	width:100%;
+}
+.ico-link {
+	padding:0 5px 0 0;
+}
+
+.entry-content {
+	overflow:hidden;
+}
+
+.textwidget-photo {
+	display:inline;
+	zoom:1;
+	float:left;
+}
+#wrapper .info.half {
+	display:inline;
+	zoom:1;
+	float:left !important;
+}
+
+#header.logo-left .logo {
+	float:left;
+	margin:20px 0 0 0 !important;
+	height:auto !important;
+}
+#header.logo-left .contact-block {
+	float:right;
+	margin:20px 0 0 0;
+}
+
+#header.logo-center .logo {
+	margin:0 auto;
+	width:100%;
+	text-align:center;
+}
+#header.logo-center .logo img {
+	vertical-align:middle;
+}
+#header.logo-center .contact-block {
+	float:left;
+	margin:0px auto 0px;
+}
+
+.navig-category {
+	float:none;
+}
+  #footer .one-fourth, .text-inline, #container > div {
+	  display:inline !important;
+	  zoom:1
+  }
+   #container > p {
+	   display:block;
+	}
+nav {
+	float:right;
+}
+#nav li,
+.team-wrap {
+	display:inline;
+}
+#logo {
+	float: left;
+}
+#header {
+	z-index: 101;
+	border: none !important;
+}
+ul.gallery  {
+	float: none
+}
+ul li.gallery-item, #container .textwidget {
+	display: inline !important;
+	zoom: 1;
+}
+#container .list-carousel .textwidget {
+	display: block !important;
+}
+.navig-category.no-category {
+	width: 90px !important;
+}
+.blog-posts .post, .about-cont > div {
+	display:inline;
+}
+.flickr .alignleft-f, #footer .flickr .alignleft-f {
+	float:none;
+	display:inline;
+}
+#slide .text-capt {
+	float:none;
+}
+
+a span.a-l-s, a span.a-r-s, a span.a-l, a span.a-r {
+	line-height:30px
+}
+.navig-nivo a.prev span.a-l,
+.navig-nivo a.next span.a-l,
+.navig-nivo a.prev span.a-r,
+.navig-nivo a.next span.a-r,
+.nivo-prevNav span.a-l,
+.nivo-nextNav span.a-l,
+.jfancytileBack span.a-l,
+.jfancytileForward span.a-l,
+.nivo-prevNav span.a-r,
+.nivo-nextNav span.a-r,
+.jfancytileBack span.a-r,
+.jfancytileForward span.a-r {
+	top:12px;
+}
+.fs-controls .a-r,
+.fs-controls .a-l {
+	top:22px;
+}
+#carousel-left span.a-l,
+#carousel-right span.a-l,
+#carousel-left span.a-r,
+#carousel-right span.a-r,
+.navig-nivo.onebyone a.nivo-prevNav span.a-l,
+.navig-nivo.onebyone a.nivo-nextNav span.a-l,
+.navig-nivo.onebyone a.nivo-prevNav span.a-r,
+.navig-nivo.onebyone a.nivo-nextNav span.a-r {
+	top:-3px;
+}
+
+.navig-nivo.caros {
+    float: none;
+    left: 0;
+    max-width: 1050px;
+    min-width: 1050px;
+    top: 180px;
+	position:relative;
+}
+i.fade {
+	width:100% !important;
+	height:99% !important;
+	display:block;
+}
+#container .videos {
+	height: auto;
+}
+.anything-video li {
+		display: block !important;
+		position: relative;
+		padding-top: 30px;
+		height: 0;
+		width: 100%;
+		overflow: hidden;
+}
+
+.bottom-cont .logo-down {
+	float:left;
+}

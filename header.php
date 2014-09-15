@@ -44,6 +44,7 @@
     <!-- code merged ends responsive grid system -->
 </head>
 
+
 <div id="wrapper">
     <div id="headcontainer">
         <header>
@@ -75,97 +76,19 @@
                    <li><a class="topmenu" href='#'>CAREERS</a></li>
                    <li class="topmenu has-sub"><a href='projects.html'>PROJECTS</a>
                       <ul>
-                            <li><a href='sub_category.html'>COMMERCIAL</a></li>                    
-                             <li><a href='sub_category.html'>RESIDENTIAL</a></li>
-                             <li><a href='sub_category.html'>INSTITUTIONAL</a></li>                                                  
-                             <li><a href='sub_category.html'>INDUSTRIAL</a></li>
-                       </ul>
-                       </li>
+                       <li><a href='sub_category.html'>COMMERCIAL</a></li>                    
+                       <li><a href='sub_category.html'>RESIDENTIAL</a></li>
+                       <li><a href='sub_category.html'>INSTITUTIONAL</a></li>                                                  
+                       <li><a href='sub_category.html'>INDUSTRIAL</a></li>                                                  
+                   </ul>
+               </li>
 
 
-                   <li><a class="topmenu" href='#'>CONTACTS</a></li>
+               <li><a class="topmenu" href='#'>CONTACTS</a></li>
 
-               </ul>
-           </div>
+           </ul>
        </div>
-   </header>
+   </div>
+</header>
 
 </div>
-
-<div id="maincontentcontainer">
-<div class="home_main_area">                
-
-
-
-
-                </div>
-
-  <div class="section group black_background">
-                    <div class="col span_1_of_12 ">
-                    <!-- blank div -->
-                    </div>
-                    <div class="col span_2_of_12">
-                    <p class="white margin-bottom-zero">Legal Information</p>
-                    </div>
-
-
-                    <div class="col span_1_of_12">
-                    <!-- blank div -->
-                    </div>
-                    <div class="col span_3_of_12 opacity_high" style="opacity:1">
-                    <p class="white margin-bottom-zero" style="opacity:1">Global C - www.globalcinc.in 2014</p>
-                    </div>
-
-                    <div class="col span_4_of_12 opacity_high">
-                    <p class="margin-bottom-zero"> Twitter Facebook Google </p>
-                    <div>
-
-
-</div>
-</div>
-
-    
-
-                
-
-
-
-</div>
-
-<body>
-    
-
-
-</body>
-
-
-
-
-
-
-
-
-
-
-
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="js/jquery-1.7.2.min.js"><\/script>')</script>
-
-    <!--[if (lt IE 9) & (!IEMobile)]>
-    <script src="js/selectivizr-min.js"></script>
-    <![endif]-->
-
-
-    <!-- More Scripts-->
-    <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
-    <script src="js/responsivegridsystem.js"></script>
-    <script src="js/script.js"></script>
-
-
-
-
-
-
-
-
-</html>

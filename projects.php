@@ -24,14 +24,14 @@
                     </div>
 
                     <div class="col span_3_of_12 first_box tm_zero bm_zero">            
-                        <a href="sub_category.html">
+                        <a href="sub_category.php">
                             <img class="box_img brand_border_bottom" src="images/5_small.jpg">
                             <p class="blue_heading blue_text text-center"><strong>COMMERCIAL</strong></p>                    
                         </a>
                     </div>
 
                     <div class="col span_3_of_12 lm_zero tm_zero bm_zero">            
-                        <a href="sub_category.html">
+                        <a href="sub_category.php">
                             <img class="box_img brand_border_bottom" src="images/5_small.jpg">
                             <p class="blue_heading blue_text text-center"><strong>RESIDENTIAL</strong></p>                    
                         </a>
@@ -39,14 +39,14 @@
 
 
                     <div class="col span_3_of_12 lm_zero tm_zero bm_zero">            
-                        <a href="sub_category.html">
+                        <a href="sub_category.php">
                             <img class="box_img brand_border_bottom" src="images/5_small.jpg">
                             <p class="blue_heading blue_text text-center"><strong>INSTITUTIONAL</strong></p>                    
                         </a>
                     </div>
 
                     <div class="col span_3_of_12 lm_zero tm_zero bm_zero">            
-                        <a href="sub_category.html">
+                        <a href="sub_category.php">
                             <img class="box_img brand_border_bottom" src="images/5_small.jpg">
                             <p class="blue_heading blue_text text-center"><strong>INDUSTRIAL</strong></p>                    
                         </a>

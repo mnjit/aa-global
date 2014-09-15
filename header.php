@@ -32,6 +32,9 @@
     <link rel="stylesheet" href="css/12cols.css" media="all">
     <link rel="stylesheet" href="css/aa.css" media="all">
 
+    <link rel="stylesheet" href="css/style_scroll.css">
+    <link rel="stylesheet" href="css/jquery.mCustomScrollbar.css">
+
 
 
     <!-- Responsive Stylesheets -->
@@ -61,7 +64,7 @@
                 <div class="col span_7_of_12">
                     <div id='cssmenu'>
                         <ul>
-                         <li><a class="topmenu" href='index.html'>HOME</a></li>
+                         <li><a class="topmenu" href='index.php'>HOME</a></li>
                          <li class='active has-sub topmenu'><a href='#'>COMPANY</a>
                           <ul>
                            <li><a href='#'>ABOUT US</a></li>                    
@@ -74,12 +77,12 @@
                    <li><a class="topmenu" href='#'>SERVICES</a></li>
                    <li><a class="topmenu" href='#'>SECTORS</a></li>
                    <li><a class="topmenu" href='#'>CAREERS</a></li>
-                   <li class="topmenu has-sub"><a href='projects.html'>PROJECTS</a>
+                   <li class="topmenu has-sub"><a href='projects.php'>PROJECTS</a>
                       <ul>
-                       <li><a href='sub_category.html'>COMMERCIAL</a></li>                    
-                       <li><a href='sub_category.html'>RESIDENTIAL</a></li>
-                       <li><a href='sub_category.html'>INSTITUTIONAL</a></li>                                                  
-                       <li><a href='sub_category.html'>INDUSTRIAL</a></li>                                                  
+                       <li><a href='sub_category.php'>COMMERCIAL</a></li>                    
+                       <li><a href='sub_category.php'>RESIDENTIAL</a></li>
+                       <li><a href='sub_category.php'>INSTITUTIONAL</a></li>                                                  
+                       <li><a href='sub_category.php'>INDUSTRIAL</a></li>                                                  
                    </ul>
                </li>
 

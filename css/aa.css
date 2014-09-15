@@ -799,7 +799,8 @@ min-height:520px;*/
 .main_area
 {
   /*background: url(../images/3.jpg) no-repeat center center;   */
-  top:60px;
+  /*top:60px;*/
+  top:5px;
   background: none;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -887,7 +888,12 @@ min-height:520px;*/
 /*sub category section */
 .border_line
 {
-  border:none;
+ border:none;
+  height:100%;
+  /*margin-left:100px ;*/
+  margin-top:0px;
+  margin-left: 0px;
+  padding-left: 0px;
 }
 
 /*sub category section ends*/

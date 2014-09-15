@@ -63,6 +63,21 @@
     <script src="js/script.js"></script>
 
 
+    <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+
+    <script>
+        (function($){
+            $(window).load(function(){
+
+                $("#content-1").mCustomScrollbar({
+                    theme:"minimal"
+                });
+                
+            });
+        })(jQuery);
+    </script>
+
+
 
 
 

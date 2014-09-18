@@ -31,6 +31,15 @@ CONTENTS:
 		position: relative;
 		overflow: hidden;
 		height: 100%;
+		max-width: 98%;
+		outline: none;
+		direction: ltr;
+	}
+
+.mCustomScrollBox_project_page{ /* contains plugin's markup */
+		position: relative;
+		overflow: hidden;
+		height: 100%;
 		max-width: 100%;
 		outline: none;
 		direction: ltr;

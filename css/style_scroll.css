@@ -188,6 +188,20 @@ code{
 	-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;
 }
 
+.content_project_page
+{
+	overflow: auto;
+	position: relative;
+	margin-left:4%;
+	/*padding: 20px;*/
+	/*background: #333;*/
+	margin: 0px;	
+	width: 100%;
+	max-width: 98%;
+	height: 185px;
+	-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;
+}
+
 .content.hidden{ display: none; }
 
 .content.light{
@@ -821,9 +835,9 @@ footer{
 footer a{ margin-right: 20px; }
 
 @media only screen and (min-width: 1229px){
-	.showcase .horizontal-images.content{ width: 1060px; }
+	.showcase .horizontal-images.content .content_project_page{ width: 1060px; }
 }
 
 @media only screen and (min-width: 1629px){
-	.showcase .horizontal-images.content{ width: 700px; }
+	.showcase .horizontal-images.content .content_project_page{ width: 700px; }
 }

@@ -31,9 +31,10 @@
     <link rel="stylesheet" href="css/11cols.css" media="all">
     <link rel="stylesheet" href="css/12cols.css" media="all">
     <link rel="stylesheet" href="css/aa.css" media="all">
-
+    
       <link rel="stylesheet" href="css/style_scroll.css">
       <link rel="stylesheet" href="css/jquery.mCustomScrollbar.css">
+      <link rel="stylesheet" href="css/mapsed.css">
 
 
 
@@ -41,6 +42,11 @@
     <link rel="stylesheet" media="only screen and (max-width: 1024px) and (min-width: 769px)" href="/css/1024.css">
     <link rel="stylesheet" media="only screen and (max-width: 768px) and (min-width: 481px)" href="/css/768.css">
     <link rel="stylesheet" media="only screen and (max-width: 480px)" href="/css/480.css">
+
+
+<!-- <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet"> --> 
+
+
 
     <!-- All JavaScript at the bottom, except for Modernizr which enables HTML5 elements and feature detects -->
     <script src="js/modernizr-2.5.3-min.js"></script>

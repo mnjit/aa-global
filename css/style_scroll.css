@@ -202,6 +202,24 @@ code{
 	-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;
 }
 
+.content_about_page
+{
+	overflow: auto;
+	position: relative;
+	/*margin-left:0px;*/
+	/*padding: 20px;*/
+	/*background: #333;*/
+	/*margin: 0px;	*/
+	/*width: 100%;*/
+/*	max-width: 98%;*/
+/*	height: 185px;*/
+	max-height:350px;
+	margin-right: 5px;
+	-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;
+}
+
+
+
 .content.hidden{ display: none; }
 
 .content.light{

@@ -9,4 +9,7 @@
 
 
 
-<?php include 'footer.php'; ?>
+<?php 
+include 'fb.php'; 
+//include 'footer.php'; 
+?>

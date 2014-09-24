@@ -234,7 +234,7 @@ bottom : -.25em; }
 /* LINKS =============================================================================  */
 
 a { 
-color : #cc1122;
+color : #FFFFFF;
 -webkit-transition: all 0.3s ease;
 -moz-transition: all 0.3s ease;
 -o-transition: all 0.3s ease;
@@ -243,7 +243,7 @@ text-decoration: none;
 }
 
 a:visited { 
-color : #ee3344; }
+color : #ffffff; }
 
 a:focus { 
 outline : thin dotted; 
@@ -252,7 +252,8 @@ color : rgb(0,0,0); }
 a:hover, 
 a:active { 
 outline : 0;
-color : #dd2233;
+/*color : #F5F5F5;*/
+color:#ffffff;
 }
 
 

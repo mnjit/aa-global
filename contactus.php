@@ -22,7 +22,6 @@
             {
                 width: 100%;
                 height: 100%;               
-
             }
         </style>        
 
@@ -47,9 +46,9 @@
                     <div class="col span_4_of_12 contact_page_content">            
                     <div class="contact_page_wrapper">
                                 <h3 class="blue_text"><strong>ADDRESS</strong></h3>
-                                <p class="text-formating">3rd Floor, Enkay Plaza Near Maple Country Club I Block, Palam Vihar Gurgaon, Haryana – 122017 India</p>  
-                                <p class="text-formating">+91-124-4008465</p>     
-                                <p class="text-formating">office.hr@globalcinc.in</p>
+                                <img class="contact_icons" src="images\Location-Icon-Blue.png" style="height:30px; margin-top:15px;"> <p class="text-formating contact_icons_text">3rd Floor, Enkay Plaza Near Maple Country Club I Block, Palam Vihar Gurgaon, Haryana – 122017 India</p>  
+                                <img class="contact_icons" src="images\KcneM6q9i.png" style="height:30px;"> <p class="text-formating contact_icons_text">+91-124-4008465</p>     
+                                <img class="contact_icons" src="images\Communication-email-blue-icon.png" style="height:30px;"><p class="text-formating contact_icons_text"><a href="mailto:office.hr@globalcinc.in" style="color:#65686B">office.hr@globalcinc.in</a></p>
 
 
                     <h5 class="blue_text"><strong>CONTACT FORM:</strong></h5>

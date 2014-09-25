@@ -18,9 +18,9 @@
             <div class="col span_12_of_12 white_bg category_content_area">            
                 <div class="content_div content_about_page mCustomScrollbar">
                     
-                    <p class="right_margin_about"><span class="brand_color_text"><strong>GLOBAL C</strong></span>  is a Multi-disciplinary Consulting & Advisory Firm that provides integrated Project Management, Comprehensive Architecture, Structure & MEP Engineering Services for Project Developers, Lenders and Users.</p>                        <!-- images part start from here. -->
+                    <p class="right_margin_about"><span class="brand_color_text"><strong>GLOBAL C</strong></span>  is a Multi-disciplinary Consulting & Advisory Firm that provides integrated Project Management, Comprehensive Architecture, Structure & MEP Engineering Services for Project Developers, Lenders and Users.</p> 
 
-                    <!-- <i class="fa fa-facebook-square" style="color:red;"></i> -->
+                    
                     
             
 

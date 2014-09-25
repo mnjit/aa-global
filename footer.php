@@ -16,7 +16,7 @@
                 <p class="white margin-bottom-zero" style="opacity:1">Global C - www.globalcinc.in 2014</p>
             </div>
 
-            <div class="col span_4_of_12 socialmedia_icon">
+            <div class="col span_5_of_12 socialmedia_icon">
                 <!-- <p class="margin-bottom-zero"> Twitter Facebook Google </p> -->
                 
                 <p class="footer_social_text" style="color:white">Stay Connected:</p>

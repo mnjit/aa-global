@@ -1,5 +1,89 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
 
+.contact_icons
+{
+  float:left;
+}
+
+.contact_icons_text
+{
+  padding-left:35px;
+  padding-top:5px;
+}
+
+.map
+  {
+      width: 100%;
+      height: 100%;               
+  }
+
+.col.span_5_of_12.no_margin.degign_page_margin
+{
+  margin-left:35px;
+}
+
+
+/*services section start*/
+.font5_l
+{
+  font-size: 1.2em; 
+}
+.no_margin
+{
+  margin:0px;
+}
+img.box_img_big_services.brand_border_bottom
+{
+  margin-bottom: 13px;
+  margin-top: 10px;
+  max-height:300px;
+}
+
+.box_img_big_services
+{
+    width:95%; 
+}
+
+
+
+/*services setion ends*/
+
+/*vision page*/
+ul.yellow_bullets
+{
+    list-style-position: inside;
+    list-style: none;
+    line-height: 1.5em;
+
+
+  /*color:yellow;*/
+}
+
+ul li.yellow_bullets_li:before {
+    /*content: "";
+    line-height: 1.5em;
+    width: .5em;
+    height: .5em;
+    background-color:yellow;
+    float: left;
+    margin: .25em .25em 0;
+    border-radius: 50%;*/
+
+    content: "";
+line-height: 1.5em;
+width: .5em;
+height: .5em;
+background-color:rgb(252,219,66);
+float: left;
+border-radius: 50%;
+margin-top: 0.40em;
+margin-right: 0.7em;
+margin-left: .4em;
+}
+
+
+/*vision page ends*/
+
 /*contact form*/
 
 .contact_page_wrapper
@@ -25,10 +109,11 @@
   display: inline;
 }
 
-.col.span_4_of_12.socialmedia_icon
+.col.span_5_of_12.socialmedia_icon
 {
   margin:0px;
   /*margin-top:5px;*/
+  text-align:center;
 }
 
 /*.social_icons
@@ -44,7 +129,8 @@
 }
 .content_about_page
 {
-	margin-right:10px;
+	margin-right:10px;  
+
 }
 .left_padding
 {
@@ -187,7 +273,7 @@ img.home_slider_img
 
 h3.cbp-ig-title
 {
-  color: rgb(11,130,199);
+  color: rgb(23,153,229);
 font-weight: bold;
 float: left;
 text-align: left;
@@ -269,8 +355,7 @@ margin-bottom: 5px;
     /*color:white;    */
     /*color*/
     /*background: rgb(252,219,66);*/
-
-    color: rgb(11,130,199);
+color: rgb(23,153,229);
 font-weight: bold;
 float: left;
 text-align: left;
@@ -490,7 +575,8 @@ span.text-content {
 
 .timeline a:hover .cbp-ig-title {
     /*color: #000;*/
-    color:white;    
+  /*  color:white;    */
+  color:rgb(23, 153, 229); 
     /*color*/
     /*background: rgb(252,219,66);*/
 }
@@ -643,7 +729,7 @@ min-height:520px;*/
 }
 .border_line
 {
-  border-left:1px solid #65686B;
+  border-left:1px solid rgb(252, 219, 66);
   height:100%;
   /*margin-left:100px ;*/
   margin-top:0px;
@@ -772,7 +858,8 @@ min-height:520px;*/
 
 .blue_text
 {
-  color: rgb(11,130,199);
+  /*color: rgb(23,153,229);*/
+  color:rgb(23, 153, 229);
   margin-bottom:1px;
 }
 

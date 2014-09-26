@@ -52,17 +52,6 @@
 
 
 
-
-        <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="js/jquery-1.7.2.min.js"><\/script>')</script>  -->
-
-    <!--[if (lt IE 9) & (!IEMobile)]>
-    <script src="js/selectivizr-min.js"></script>
-    <![endif]-->
-
-
-    <!-- <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>-->     
-
     <script src="js/jquery-1.11.1.min.js"></script>
     <script src="js/responsivegridsystem.js"></script>
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyASm3CwaK9qtcZEWYa-iQwHaGi3gcosAJc&sensor=false"></script>
@@ -90,7 +79,6 @@
                 // Get the HTML DOM element that will contain your map 
                 // We are using a div with id="map" seen below in the <body>
                 var mapElement = document.getElementById('map');
-
                 // Create the Google Map using out element and options defined above
                 var map = new google.maps.Map(mapElement, mapOptions);
             }

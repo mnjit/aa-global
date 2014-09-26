@@ -204,12 +204,12 @@ code{
 
 .content_about_page
 {
-overflow: auto;
+	overflow: auto;
 	position: relative;
 	/*padding: 20px;*/
 	/*background: #333;*/
 	margin: 0px;	
-	width: 1000px;
+	/*width: 1000px;*/
 	max-width: 97%;
 	height: 340px;
 	margin-left:40px;
